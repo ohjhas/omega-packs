@@ -1,0 +1,11 @@
+Package: lso
+Version: 1.0
+Architecture: all
+Maintainer: ohjhas
+Filename: debian/lso-1.0-1.deb
+Size: 6316
+MD5sum: b34690e01f49fd2d63adccce622d3e12
+SHA1: fa2e040c74634f9069cd46a0ceef78cef0d1d5f5
+SHA256: b0b3ac1ad843f7bee3c6385e13c12934f8b7d3e144bec973abb8c5332da8e78b
+Description: Lightweight System Overview for all DEs.
+
