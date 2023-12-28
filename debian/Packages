@@ -1,3 +1,14 @@
+Package: lightgram
+Version: 1.0-1
+Architecture: all
+Maintainer: ohjhas
+Filename: debian/lightgram-1.0-1.deb
+Size: 6720
+MD5sum: 25fa7ef7beb93327a2edca0997c88574
+SHA1: 98b9e9d51a7c6492e7121951d9402ad639fd3cc3
+SHA256: e552b23ce6b3dee95bab4a68dc54cf3a9e08c1ef71f04c5acbaa5204ff2995d3
+Description: Lightweight Telegram WebApp made in python, .py only 681 bytes!!
+
 Package: lso
 Version: 1.0
 Architecture: all
@@ -8,4 +19,15 @@ MD5sum: b34690e01f49fd2d63adccce622d3e12
 SHA1: fa2e040c74634f9069cd46a0ceef78cef0d1d5f5
 SHA256: b0b3ac1ad843f7bee3c6385e13c12934f8b7d3e144bec973abb8c5332da8e78b
 Description: Lightweight System Overview for all DEs.
+
+Package: palemoon
+Version: 32.5.2-1
+Architecture: amd64
+Maintainer: Moonchild Productions
+Filename: debian/palemoon-32.5.2.deb
+Size: 40077380
+MD5sum: 0fdf57a44a47408721f77eb1533fd376
+SHA1: 20d0166cae42c55eceae9baeef06c2eac791356c
+SHA256: e3af4d817a35fc7231c95649e01e07639df930552e5aa6cb8738ca82548fb7db
+Description: Goanna-based lightweight web browser - Packaged by ohjhas
 
