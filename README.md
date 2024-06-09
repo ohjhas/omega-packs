@@ -1,4 +1,4 @@
-# cl-omega-packs
+# cl-omega-packs (unmaintained)
 OmegaLinux Official Repository
 
 THIS IS ONLY FOR USE ON AMD64 (64 bits) SYSTEMS
