@@ -1,4 +1,4 @@
-# cl-omega-packs (unmaintained)
+# omega-packs (unmaintained)
 OmegaLinux Official Repository
 
 THIS IS ONLY FOR USE ON AMD64 (64 bits) SYSTEMS
@@ -12,7 +12,7 @@ Then run sudo nano sources.list
 and add this line in the file:
 
  
-deb [trusted=yes] https://raw.githubusercontent.com/ohjhas/cl-omega-packs/main debian/
+deb [trusted=yes] https://raw.githubusercontent.com/ohjhas/omega-packs/main debian/
 
 
 Save the file
