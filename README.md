@@ -1,5 +1,5 @@
-# omega-packs (unmaintained)
-OmegaLinux Official Repository
+# omega-krns
+basic dpkg repo to host loc-os kernels for omegalinux
 
 THIS IS ONLY FOR USE ON AMD64 (64 bits) SYSTEMS
 
@@ -12,7 +12,7 @@ Then run sudo nano sources.list
 and add this line in the file:
 
  
-deb [trusted=yes] https://raw.githubusercontent.com/ohjhas/omega-packs/main debian/
+deb [trusted=yes] https://raw.githubusercontent.com/ohjhas/omega-krns/main debian/
 
 
 Save the file
